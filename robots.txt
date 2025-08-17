@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://piyushkumar7761.github.io/Sweets_shop.com/sitemap.xml
